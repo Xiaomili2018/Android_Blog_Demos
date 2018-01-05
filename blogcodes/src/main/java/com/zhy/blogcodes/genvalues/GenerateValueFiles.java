@@ -140,8 +140,8 @@ public class GenerateValueFiles {
 	}
 
 	public static void main(String[] args) {
-		int baseW = 320;
-		int baseH = 480;
+		int baseW = 720;
+		int baseH = 1280;
 		String addition = "";
 		try {
 			if (args.length >= 3) {
